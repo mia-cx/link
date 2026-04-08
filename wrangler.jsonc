@@ -16,6 +16,12 @@
 	],
 	"env": {
 		"production": {
+			"kv_namespaces": [
+				{
+					"binding": "REDIRECTS",
+					"id": "91b88989b8754f2c9634161d10b69f77"
+				}
+			],
 			"routes": [
 				{
 					"pattern": "l.mia.cx",
